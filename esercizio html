@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>c'è sempre una prima volta</title>
+</head>
+
+<body>
+    <div>
+        <h1>Prima pagina html</h1>
+        <img src=https://scontent.fpmo1-1.fna.fbcdn.net/v/t1.18169-9/28685375_1568274809914759_8670999340516481428_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=UiAHJGAY2LgQ7kNvgGRZ9aO&_nc_ht=scontent.fpmo1-1.fna&oh=00_AYA42FVbLVlEisF6yJs5r5JVsAK6FE9uT25V1NHXNPpEEw&oe=6676C637  width="250px" />
+        <p>Ciao a tutti! <br />Io sono Gabriele, ho 25 anni e sono di Palermo. </p>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3>I miei interessi e hobby:</h3> 
+        <ul>
+            <li>Viaggi</li>
+            <li>Tecnologia</li>
+            <li>Saggi storici</li>
+            <li>Libri fantasy</li>
+            <li>Anime e manga</li>
+            <li>Giochi di carte</li>
+            <li>Giochi di società</li>
+            <li>Giochi di strategia a turni</li>
+        </ul>
+    </div>
+
+    <hr>
+
+    <div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Data</th>
+                    <th>Posizione</th>
+                    <th>Mansione</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                <tr>
+                    <td>2023-2023</td>
+                    <td>Addetto alle telecomunicazioni</td>
+                    <td>Customer caring.</td>
+                </tr>
+
+                <tr>
+                    <td>2019-2022</td>
+                    <td>Addetto alle telecomunicazioni</td>
+                    <td>Customer caring</td>
+                </tr>
+                
+                <tr>
+                    <td>2017-2018</td>
+                    <td>UniPA facoltà di scienze politiche</td>
+                    <td>Studente</td>
+                </tr>   
+                
+                <tr>
+                    <td>2012-2017</td>
+                    <td>Itis E. Majorana</td>
+                    <td>Studente</td>
+                </tr>   
+            </tbody>
+        </table>
+    </div>
+    
+    <hr>
+
+        <div>
+                <h3>Contatti</h3>
+                <p>Telefono: +39 3281316254</p>
+                <p>Email: <a href="mailto:gabrielegnr@gmail.com"
+                        title="email">gabrielegnr@gmail.com</a></p>
+        </div>
+</body>
+
+</html>
